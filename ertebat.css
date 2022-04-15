@@ -1,0 +1,148 @@
+ #fh{
+ 
+  color:white;
+  font-family:monospace;
+  font-size:20px;
+  background-color:#FFABD0;
+  border-radius:2%;
+  padding:1.5% 4%;
+  margin-left:5%;
+  font-size:30px;
+  position:absolute;
+  top:5%;
+  left:5%;
+  
+  
+}
+
+#contact{
+  float:right;
+  border: solid #FFABD0;
+  background-color:white;
+  color:#FFABD0;
+  border-radius:180%;
+  font-size:20px;
+  position:absolute;
+  top:5%;
+  right:5%;
+   font-family:monospace;
+  text-decoration:none;
+  font-size:20px;
+  padding:2% 3%;
+  margin-left:40%;
+}
+
+h2{
+  text-align:center;
+  color:#FFABD0;
+  font-family:monospace;
+  font-size:30px;
+}
+
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 10%;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  margin-left:15%;
+   border-radius:5%;
+}
+
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa-instagram {
+  background: #FFABD0;
+  color: white;
+}
+
+.fa-phone {
+  background: #FFABD0;
+  color: white;
+}
+
+.fa-whatsapp {
+  background:#FFABD0;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+
+
+  @media screen and (max-width: 700px){
+    #fh{
+ 
+  color:white;
+  font-family:monospace;
+  font-size:20px;
+  background-color:#FFABD0;
+  border-radius:2%;
+  padding:2% 7%;
+  margin-left:5%;
+  font-size:30px;
+      
+  
+}
+ 
+    
+  #contact{
+  float:right;
+  border: solid #FFABD0;
+  background-color:white;
+  color:#FFABD0;
+  border-radius:180%;
+  font-size:20px;
+  position:absolute;
+  top:5%;
+  right:5%;
+   font-family:monospace;
+  text-decoration:none;
+  font-size:20px;
+  padding:2% 3%;
+  margin-left:40%;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 10%;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  margin-left:10%;
+   border-radius:5%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+
+.fa-instagram {
+  background: #FFABD0;
+  color: white;
+}
+
+.fa-phone {
+  background: #FFABD0;
+  color: white;
+}
+
+.fa-whatsapp {
+  background:#FFABD0;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+}
+
+
+  
+
+
