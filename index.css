@@ -1,0 +1,171 @@
+ #fh{
+ 
+  color:white;
+  font-family:monospace;
+  font-size:20px;
+  background-color:#FFABD0;
+  border-radius:2%;
+  padding:1.5% 4%;
+  margin-left:5%;
+  font-size:30px;
+  position:absolute;
+  top:5%;
+  left:5%;
+  
+  
+}
+
+#contact{
+  float:right;
+  border: solid #FFABD0;
+  background-color:white;
+  color:#FFABD0;
+  border-radius:180%;
+  font-size:20px;
+  position:absolute;
+  top:5%;
+  right:5%;
+   font-family:monospace;
+  text-decoration:none;
+  font-size:20px;
+  padding:2% 3%;
+  margin-left:40%;
+}
+
+h2{
+  text-align:center;
+  color:#FFABD0;
+  font-size:30px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+ul li {
+    position: relative;
+    display: inline-block;
+    width: 40%;
+    line-height: 30px;
+    background: #FFABD0;
+    font-family:monospace;
+    font-size:20px;
+}
+
+ul a {
+    display: block;
+    text-decoration: none;
+    color: white;
+  
+}
+
+ul a:hover {
+    
+}
+ul li ul {
+    
+    margin-left: 0%;
+    display:none;
+  margin-top:5%;
+  margin-bottom:5%;
+  
+}
+
+ul li:hover ul {
+    display:block;
+  
+ 
+}
+  @media screen and (max-width: 700px){
+    #fh{
+ 
+  color:white;
+  font-family:monospace;
+  font-size:20px;
+  background-color:#FFABD0;
+  border-radius:2%;
+  padding:2% 7%;
+  margin-left:5%;
+  font-size:30px;
+  
+}
+
+
+
+    #contact{
+  float:right;
+  border: solid #FFABD0;
+  background-color:white;
+  color:#FFABD0;
+  border-radius:180%;
+  font-size:20px;
+  position:absolute;
+  top:5%;
+  right:5%;
+  font-family:monospace;
+  text-decoration:none;
+  font-size:20px;
+  padding:2% 3%;
+  margin-left:40%;
+  
+}
+  
+    h2{
+  text-align:center;
+  color:#FFABD0;
+  font-size:25px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+}
+
+ul li {
+    position: relative;
+    display: inline-block;
+    width: 40%;
+    line-height: 30px;
+    background: #FFABD0;
+    font-family:monospace;
+    font-size:20px;
+}
+
+ul a {
+    display: block;
+    text-decoration: none;
+    color: white;
+  
+}
+
+ul a:hover {
+    
+}
+ul li ul {
+    
+    margin-left: 0%;
+    display:none;
+  margin-top:10%;
+  margin-bottom:5%;
+  
+}
+
+ul li:hover ul {
+    display:block;
+  
+ 
+}
+    
+    
+
+}
+
+
+  
+
+
